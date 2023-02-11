@@ -5,6 +5,11 @@ Solar System project It's a model of the solar system! By using this application
 - View all solar system planets rendered on canvas;
 - Visualizar todas as cartas com informações sobre missões espaciais;
 
+<div align="center" display="inline">
+<img src="./src/img/planets.png" alt="planets" width="400px" height="250px">
+<img src="./src/img/missions.png" alt="missions" width="400px" height="250px">
+</div>
+
 ## How to use:
 - First clone the repository into your machine;
 
