@@ -10,18 +10,24 @@ Solar System project It's a model of the solar system! By using this application
 <img src="./src/img/missions.png" alt="missions" width="400px" height="250px">
 </div>
 
-## How to use:
+## Run Locally:
 - First clone the repository into your machine;
 
 ```
- git clone git@github.com:GabiNamu/trybewallet.git
+ git clone git@github.com:GabiNamu/solar_system.git
 ```
-- After cloning, enter into the repository and install the dependencies;
+- Go to the project directory;
+
+```
+cd solar_system
+```
+
+- Install dependencies;
 
 ```
 npm install
 ```
-- Then to see in your browser, you just need to do a npm start;
+- Start the server;
 ```
 npm start
 ```
