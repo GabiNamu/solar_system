@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/solar_system/static/css/main.d8bb78d6.css",
+    "main.js": "/solar_system/static/js/main.923171d8.js",
+    "static/media/background.png": "/solar_system/static/media/background.0dced38ca9c5cd176fed.png",
+    "static/media/Mercurio.png": "/solar_system/static/media/Mercurio.a7105a56cdf707dc3cce.png",
+    "static/media/Terra.png": "/solar_system/static/media/Terra.990ac782d3b62d230d28.png",
+    "static/media/Venus.png": "/solar_system/static/media/Venus.397fdee264550fe0d0d1.png",
+    "static/media/Marte.png": "/solar_system/static/media/Marte.6cae79d3ef1a90069610.png",
+    "static/media/Jupiter.png": "/solar_system/static/media/Jupiter.529cdbe0cad25f29f533.png",
+    "static/media/Netuno.png": "/solar_system/static/media/Netuno.48cf14b71b63a23d6f8a.png",
+    "static/media/Saturno.png": "/solar_system/static/media/Saturno.00b7295f54e9af9bbe90.png",
+    "static/media/Urano.png": "/solar_system/static/media/Urano.607cb33ce7cb511e3d9c.png",
+    "index.html": "/solar_system/index.html",
+    "main.d8bb78d6.css.map": "/solar_system/static/css/main.d8bb78d6.css.map",
+    "main.923171d8.js.map": "/solar_system/static/js/main.923171d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8bb78d6.css",
+    "static/js/main.923171d8.js"
+  ]
+}
