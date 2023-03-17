@@ -7,10 +7,11 @@ body {
 
 .header-h1 {
   color: white;
-  font-size: 60px;
+  font-size: 4rem;
   font-weight: 100;
-  margin-bottom: 304px;
-  margin-top: 61.94px;
+  margin: auto;
+  margin-bottom: 2.5rem;
+  margin-top: 2.5rem;
   text-align: center;
   text-transform: uppercase;
 }
@@ -34,7 +35,7 @@ body {
 
 .second-title {
   color: white;
-  font-size: 40px;
+  font-size: 2rem;
   font-weight: 100;
   text-align: center;
   text-transform: uppercase;
@@ -119,5 +120,43 @@ body {
   margin: auto;
   margin-bottom: 50px;
   padding: 10px;
-  width: 1200px;
+  width: 90%;
+}
+
+@media screen and ( max-width : 600px ) {
+
+  .elipse {
+    margin-left: 100px;
+    width: 100px;
+  }
+
+  .missions-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    margin: auto;
+  }
+
+  .mission-info {
+    width: 95%;
+  }
+
+  .mission-card {
+    width: 90%;
+  }
+
+  .mission-card:hover {
+    padding: 20px;
+  }
+
+  .line {
+    height: 0;
+    width: 0;
+  }
+
+  .missions {
+    margin-top: 650px;
+  }
+
 }
