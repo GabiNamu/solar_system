@@ -42,11 +42,12 @@ body {
 }
 
 .line {
-  border: 1px solid white;
+
+  /* border: 1px solid white; */
   height: 0;
-  margin-bottom: 250px;
-  margin-top: 100px;
-  width: 100vw;
+  margin-bottom: 350px;
+  margin-top: 230px;
+  width: 0;
 }
 
 .line:hover {
@@ -119,6 +120,8 @@ body {
   border-radius: 30px;
   margin: auto;
   margin-bottom: 50px;
+
+  /* margin-top: 20rem; */
   padding: 10px;
   width: 90%;
 }
@@ -128,6 +131,14 @@ body {
   .elipse {
     margin-left: 100px;
     width: 100px;
+  }
+
+  .planet-image {
+    width: 140px;
+  }
+
+  .planet-image:hover {
+    width: 170px;
   }
 
   .missions-container {
